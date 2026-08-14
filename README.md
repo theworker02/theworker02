@@ -8,14 +8,14 @@ Building next-generation developer tools, intelligent systems, and experimental 
 
 Company / org: **[Magnexis](https://github.com/Magnexis)** — most public socials and package registries use that name.
 
-[![GitHub](https://img.shields.io/badge/GitHub-theworker02-181717?style=for-the-badge&logo=github)](https://github.com/theworker02)
-[![Magnexis](https://img.shields.io/badge/Org-Magnexis-111827?style=for-the-badge&logo=github)](https://github.com/Magnexis)
-[![X](https://img.shields.io/badge/X-Magnexis-000000?style=for-the-badge&logo=x)](https://x.com/Magnexis)
-[![Bluesky](https://img.shields.io/badge/Bluesky-magnexis-111827?style=for-the-badge&logo=bluesky)](https://bsky.app/profile/magnexis.bsky.social)
-[![DEV](https://img.shields.io/badge/DEV-Community-0A0A0A?style=for-the-badge&logo=devdotto)](https://dev.to/magnexis)
-[![Blog](https://img.shields.io/badge/Blog-Hashnode-111827?style=for-the-badge&logo=hashnode)](https://magnexis-blog.hashnode.dev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Matthew-0A0A0A?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/matthew-m-looney)
-[![Sponsors](https://img.shields.io/badge/Sponsors-theworker02-181717?style=for-the-badge&logo=githubsponsors)](https://github.com/sponsors/theworker02)
+[![GitHub](https://img.shields.io/badge/GitHub-theworker02-181717?style=plastic&logo=github)](https://github.com/theworker02)
+[![Magnexis](https://img.shields.io/badge/Org-Magnexis-111827?style=plastic&logo=github)](https://github.com/Magnexis)
+[![X](https://img.shields.io/badge/X-Magnexis-000000?style=plastic&logo=x)](https://x.com/Magnexis)
+[![Bluesky](https://img.shields.io/badge/Bluesky-magnexis-111827?style=plastic&logo=bluesky)](https://bsky.app/profile/magnexis.bsky.social)
+[![DEV](https://img.shields.io/badge/DEV-Community-0A0A0A?style=plastic&logo=devdotto)](https://dev.to/magnexis)
+[![Blog](https://img.shields.io/badge/Blog-Hashnode-111827?style=plastic&logo=hashnode)](https://magnexis-blog.hashnode.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Matthew-0A0A0A?style=plastic&logo=linkedin)](https://www.linkedin.com/in/matthew-m-looney)
+[![Sponsors](https://img.shields.io/badge/Sponsors-theworker02-181717?style=plastic&logo=githubsponsors)](https://github.com/sponsors/theworker02)
 
 </div>
 
@@ -101,26 +101,26 @@ Magnexis is the org name. Languages (typeYAML, Proton, COBOLX, Steel), platforms
 
 ## Stack
 
-![TypeScript](https://img.shields.io/badge/TypeScript-111827?style=for-the-badge&logo=typescript)
-![JavaScript](https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript)
-![Ruby](https://img.shields.io/badge/Ruby-111827?style=for-the-badge&logo=ruby)
-![Go](https://img.shields.io/badge/Go-111827?style=for-the-badge&logo=go)
-![Rust](https://img.shields.io/badge/Rust-111827?style=for-the-badge&logo=rust)
-![Dart](https://img.shields.io/badge/Dart-111827?style=for-the-badge&logo=dart)
-![Python](https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python)
-![C%23](https://img.shields.io/badge/C%23-111827?style=for-the-badge&logo=csharp)
-![.NET](https://img.shields.io/badge/.NET-111827?style=for-the-badge&logo=dotnet)
-![C++](https://img.shields.io/badge/C++-111827?style=for-the-badge&logo=cplusplus)
-![Lua](https://img.shields.io/badge/Lua-111827?style=for-the-badge&logo=lua)
-![React](https://img.shields.io/badge/React-111827?style=for-the-badge&logo=react)
-![Next.js](https://img.shields.io/badge/Next.js-111827?style=for-the-badge&logo=nextdotjs)
-![Node.js](https://img.shields.io/badge/Node.js-111827?style=for-the-badge&logo=nodedotjs)
-![FastAPI](https://img.shields.io/badge/FastAPI-111827?style=for-the-badge&logo=fastapi)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111827?style=for-the-badge&logo=postgresql)
-![Docker](https://img.shields.io/badge/Docker-111827?style=for-the-badge&logo=docker)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-111827?style=for-the-badge&logo=githubactions)
-![Linux](https://img.shields.io/badge/Linux-111827?style=for-the-badge&logo=linux)
-![Tauri](https://img.shields.io/badge/Tauri-111827?style=for-the-badge&logo=tauri)
+![TypeScript](https://img.shields.io/badge/TypeScript-111827?style=plastic&logo=typescript)
+![JavaScript](https://img.shields.io/badge/JavaScript-111827?style=plastic&logo=javascript)
+![Ruby](https://img.shields.io/badge/Ruby-111827?style=plastic&logo=ruby)
+![Go](https://img.shields.io/badge/Go-111827?style=plastic&logo=go)
+![Rust](https://img.shields.io/badge/Rust-111827?style=plastic&logo=rust)
+![Dart](https://img.shields.io/badge/Dart-111827?style=plastic&logo=dart)
+![Python](https://img.shields.io/badge/Python-111827?style=plastic&logo=python)
+![C%23](https://img.shields.io/badge/C%23-111827?style=plastic&logo=csharp)
+![.NET](https://img.shields.io/badge/.NET-111827?style=plastic&logo=dotnet)
+![C++](https://img.shields.io/badge/C++-111827?style=plastic&logo=cplusplus)
+![Lua](https://img.shields.io/badge/Lua-111827?style=plastic&logo=lua)
+![React](https://img.shields.io/badge/React-111827?style=plastic&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-111827?style=plastic&logo=nextdotjs)
+![Node.js](https://img.shields.io/badge/Node.js-111827?style=plastic&logo=nodedotjs)
+![FastAPI](https://img.shields.io/badge/FastAPI-111827?style=plastic&logo=fastapi)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111827?style=plastic&logo=postgresql)
+![Docker](https://img.shields.io/badge/Docker-111827?style=plastic&logo=docker)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-111827?style=plastic&logo=githubactions)
+![Linux](https://img.shields.io/badge/Linux-111827?style=plastic&logo=linux)
+![Tauri](https://img.shields.io/badge/Tauri-111827?style=plastic&logo=tauri)
 
 ## Future competitors
 
@@ -167,6 +167,17 @@ GitHub here is **theworker02**. Most other socials and registries are **Magnexis
 | Open VSX | [Nex LSP](https://open-vsx.org/extension/theworker02/nex-lsp) |
 | GitHub Sponsors | [github.com/sponsors/theworker02](https://github.com/sponsors/theworker02) |
 | thanks.dev | [thanks.dev/u/gh/theworker02](https://thanks.dev/u/gh/theworker02) |
+| Informal application | [Magnexis Google Form](https://forms.gle/gTLGpg45nH1xN5hK8) |
+
+---
+
+## Magnexis informal application
+
+Interested in working with Magnexis? Use the official Google Form:
+
+[![Apply](https://img.shields.io/badge/Apply-Magnexis_informal_application-111827?style=plastic&logo=googleforms&logoColor=white)](https://forms.gle/gTLGpg45nH1xN5hK8)
+
+**[forms.gle/gTLGpg45nH1xN5hK8](https://forms.gle/gTLGpg45nH1xN5hK8)**
 
 ---
 
