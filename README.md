@@ -175,7 +175,7 @@ GitHub here is **theworker02**. Most other socials and registries are **Magnexis
 
 Interested in working with Magnexis? Use the official Google Form:
 
-[![Apply](https://img.shields.io/badge/Apply-Magnexis_informal_application-111827?style=plastic&logo=googleforms&logoColor=white)](https://forms.gle/gTLGpg45nH1xN5hK8)
+[![Apply](https://img.shields.io/badge/Apply-Magnexis_contributor_interest-111827?style=plastic&logo=googleforms&logoColor=white)](https://forms.gle/gTLGpg45nH1xN5hK8)
 
 **[forms.gle/gTLGpg45nH1xN5hK8](https://forms.gle/gTLGpg45nH1xN5hK8)**
 
