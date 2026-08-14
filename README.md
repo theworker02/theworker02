@@ -1,10 +1,12 @@
 <div align="center">
 
-# Matthew
+# theworker02
 
-### Founder of [Magnexis](https://github.com/Magnexis)
+### Matthew · GitHub [`theworker02`](https://github.com/theworker02)
 
 Building next-generation developer tools, intelligent systems, and experimental software.
+
+Company / org: **[Magnexis](https://github.com/Magnexis)** — most public socials and package registries use that name.
 
 [![GitHub](https://img.shields.io/badge/GitHub-theworker02-181717?style=for-the-badge&logo=github)](https://github.com/theworker02)
 [![Magnexis](https://img.shields.io/badge/Org-Magnexis-111827?style=for-the-badge&logo=github)](https://github.com/Magnexis)
@@ -21,11 +23,11 @@ Building next-generation developer tools, intelligent systems, and experimental 
 
 ## About
 
-I am Matthew (`theworker02`), founder of **Magnexis** — an independent software company building open-source developer infrastructure, programming languages, and systems software.
+This is my personal GitHub: **theworker02**. I write languages, diagnostics, systems software, and AI tooling in the open.
 
-This account is my public engineering home. Magnexis products that ship under [`theworker02/*`](https://github.com/theworker02) live here. The broader catalog — AetherOS, Agent Portal, anti-cloud, AquaStat, typeYAML, and the rest of the org — is on **[github.com/Magnexis](https://github.com/Magnexis)**.
+I founded **[Magnexis](https://github.com/Magnexis)**, the company/org behind a lot of that work. Repos on this account (`theworker02/*`) are mine. The broader Magnexis catalog — AetherOS, Agent Portal, anti-cloud, AquaStat, typeYAML, and the rest — lives on **[github.com/Magnexis](https://github.com/Magnexis)**. X, Bluesky, DEV, the blog, npm, PyPI, and RubyGems are Magnexis accounts.
 
-We build in the open because software is easier to trust, improve, and extend when its architecture can be inspected.
+I build in the open because software is easier to trust, improve, and extend when its architecture can be inspected.
 
 > Software should not be a black box.
 
@@ -91,9 +93,9 @@ Projects below are public repositories on this account. Private work is not list
 - **[cartographer](https://github.com/theworker02/cartographer)** — Architecture navigation: know where you are in the code · [site](https://theworker02.github.io/cartographer/)
 - **[aftermath](https://github.com/theworker02/aftermath)** — Execution-backed verification receipts for coding agents · [site](https://theworker02.github.io/aftermath/)
 
-## Magnexis organization
+## Magnexis
 
-The company catalog is larger than this account. Languages (typeYAML, Proton, COBOLX, Steel), platforms (AetherOS, Agent Portal, anti-cloud, Omniforge), public-interest tools (AquaStat, Public Oversight), and design tooling live on the org profile:
+Magnexis is the org name. Languages (typeYAML, Proton, COBOLX, Steel), platforms (AetherOS, Agent Portal, anti-cloud, Omniforge), public-interest tools (AquaStat, Public Oversight), and design tooling live there:
 
 **[github.com/Magnexis](https://github.com/Magnexis)** · **[magnexis-blog.hashnode.dev](https://magnexis-blog.hashnode.dev)**
 
@@ -146,10 +148,12 @@ If this work is useful, you can fund it directly:
 
 ## Connect
 
+GitHub here is **theworker02**. Most other socials and registries are **Magnexis**.
+
 | Channel | Link |
 | --- | --- |
-| GitHub (personal) | [github.com/theworker02](https://github.com/theworker02) |
-| GitHub (Magnexis) | [github.com/Magnexis](https://github.com/Magnexis) |
+| GitHub (this profile) | [github.com/theworker02](https://github.com/theworker02) |
+| GitHub (org) | [github.com/Magnexis](https://github.com/Magnexis) |
 | X | [x.com/Magnexis](https://x.com/Magnexis) |
 | Bluesky | [magnexis.bsky.social](https://bsky.app/profile/magnexis.bsky.social) |
 | DEV | [dev.to/magnexis](https://dev.to/magnexis) |
@@ -167,5 +171,3 @@ If this work is useful, you can fund it directly:
 ---
 
 Work ships as inspectable, MIT-oriented open source whenever it can. Read the repository, run it locally, disagree with it, and improve it.
-
-**Magnexis builds software that developers can inspect, understand, adapt, and own.**
