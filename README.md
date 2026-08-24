@@ -190,6 +190,7 @@ GitHub here is **theworker02**. Most other socials and registries are **Magnexis
 | GitHub Sponsors | [github.com/sponsors/theworker02](https://github.com/sponsors/theworker02) |
 | thanks.dev | [thanks.dev/u/gh/theworker02](https://thanks.dev/u/gh/theworker02) |
 | Informal application | [Magnexis Google Form](https://forms.gle/gTLGpg45nH1xN5hK8) |
+| Cursor.Directory | [Our Cursor.Directory Profile](https://cursor.directory/u/theworker02) |
 
 ---
 
