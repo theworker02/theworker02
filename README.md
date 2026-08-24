@@ -182,7 +182,6 @@ GitHub here is **theworker02**. Most other socials and registries are **Magnexis
 | DEV | [dev.to/magnexis](https://dev.to/magnexis) |
 | Blog | [magnexis-blog.hashnode.dev](https://magnexis-blog.hashnode.dev) |
 | LinkedIn | [linkedin.com/in/matthew-m-looney](https://www.linkedin.com/in/matthew-m-looney) |
-| Stack Overflow | [stackoverflow.com/users/32952523/magnexis](https://stackoverflow.com/users/32952523/magnexis) |
 | Gravatar | [gravatar.com/magnexis](https://gravatar.com/magnexis) |
 | npm | [npmjs.com/~magnexis](https://www.npmjs.com/~magnexis) |
 | PyPI | [pypi.org/user/magnexis](https://pypi.org/user/magnexis/) |
