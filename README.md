@@ -49,6 +49,7 @@ Independent, open-source work across the stack:
 | Systems and performance | P2P compute, AMD-exclusive performance tooling, hardware-native specialization, polyglot runtimes |
 | AI routing and agents | Multi-provider LLM meshes, circuit breaking, execution-backed agent verification |
 | Contracts and correctness | Behavioral contracts, struct-tag analysis, ownership and fencing primitives |
+| Local CLI utilities | One-purpose tools for gists, run receipts, specs, env schemas, diffs, bind config, and CI hygiene |
 | Research | Deterministic reconstruction, spacetime / CTC experiments — documented honestly, not oversold |
 
 ## Public work
@@ -92,6 +93,28 @@ Projects below are public repositories on this account. Private work is not list
 
 - **[cartographer](https://github.com/theworker02/cartographer)** — Architecture navigation: know where you are in the code · [site](https://theworker02.github.io/cartographer/)
 - **[aftermath](https://github.com/theworker02/aftermath)** — Execution-backed verification receipts for coding agents · [site](https://theworker02.github.io/aftermath/)
+
+### CLI tools
+
+Small, one-purpose command-line utilities. Each is an initial public release (v1.00).
+
+| Tool | Purpose |
+| --- | --- |
+| **[gistfold](https://github.com/theworker02/gistfold)** | Gist folder quality checker |
+| **[runledger](https://github.com/theworker02/runledger)** | Append-only CLI run receipts |
+| **[specslice](https://github.com/theworker02/specslice)** | Extract headings and API names from markdown specs |
+| **[envshape](https://github.com/theworker02/envshape)** | Describe and validate environment-variable schemas |
+| **[diffnoun](https://github.com/theworker02/diffnoun)** | Git diff → noun-phrase changelog lines |
+| **[portbind](https://github.com/theworker02/portbind)** | Check `0.0.0.0` / `PORT` bind config |
+| **[pagesmark](https://github.com/theworker02/pagesmark)** | GitHub Pages starter generator |
+| **[commitlint-lite](https://github.com/theworker02/commitlint-lite)** | Conventional commit message checker |
+| **[licensehead](https://github.com/theworker02/licensehead)** | SPDX license header presence check |
+| **[fixturefreeze](https://github.com/theworker02/fixturefreeze)** | Golden-file freeze and compare |
+| **[sli-counter](https://github.com/theworker02/sli-counter)** | Local SLO/SLI good/bad counter |
+| **[receipt-md](https://github.com/theworker02/receipt-md)** | Verification receipt markdown writer |
+| **[jsonptrget](https://github.com/theworker02/jsonptrget)** | JSON Pointer get from stdin |
+| **[bytesize](https://github.com/theworker02/bytesize)** | Parse and format KiB/MiB/KB |
+| **[cidrhas](https://github.com/theworker02/cidrhas)** | IPv4 CIDR contains check |
 
 ## Magnexis
 
