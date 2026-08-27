@@ -183,7 +183,6 @@ GitHub here is **theworker02**. Most other socials and registries are **Magnexis
 | Blog | [magnexis-blog.hashnode.dev](https://magnexis-blog.hashnode.dev) |
 | LinkedIn | [linkedin.com/in/matthew-m-looney](https://www.linkedin.com/in/matthew-m-looney) |
 | Gravatar | [gravatar.com/magnexis](https://gravatar.com/magnexis) |
-| npm | [npmjs.com/~magnexis](https://www.npmjs.com/~magnexis) |
 | PyPI | [pypi.org/user/magnexis](https://pypi.org/user/magnexis/) |
 | RubyGems | [rubygems.org/profiles/magnexis](https://rubygems.org/profiles/magnexis) |
 | Open VSX | [Nex LSP](https://open-vsx.org/extension/theworker02/nex-lsp) |
