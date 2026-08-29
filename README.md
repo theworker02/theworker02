@@ -156,7 +156,7 @@ These packages use documented ESM entrypoints, typed public APIs, generated JSR 
 | RubyGems | [rubygems.org/profiles/magnexis](https://rubygems.org/profiles/magnexis) |
 | Open VSX | [Nex LSP](https://open-vsx.org/extension/theworker02/nex-lsp) |
 | Cursor.Directory | [cursor.directory/u/theworker02](https://cursor.directory/u/theworker02) |
-| Youtube | [https://www.youtube.com/@theworker02gh](https://www.youtube.com/@theworker02gh) |
+| Youtube | [youtube.com/@theworker02gh](https://www.youtube.com/@theworker02gh) |
 
 ---
 
