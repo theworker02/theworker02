@@ -6,6 +6,10 @@
 
 Building developer tools, robotics systems, languages, infrastructure, and focused open-source software.
 
+### [Portfolio → peerlist.io/theworker02](https://peerlist.io/theworker02)
+
+[![Peerlist](https://img.shields.io/badge/View_Portfolio-peerlist.io%2Ftheworker02-00AA45?style=for-the-badge)](https://peerlist.io/theworker02)
+
 [![GitHub](https://img.shields.io/badge/GitHub-theworker02-181717?style=for-the-badge&logo=github)](https://github.com/theworker02)
 [![Magnexis](https://img.shields.io/badge/Magnexis-Organization-6f42c1?style=for-the-badge&logo=github)](https://github.com/Magnexis)
 [![JSR](https://img.shields.io/badge/JSR-%40theworker02-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111827)](https://jsr.io/@theworker02)
@@ -180,7 +184,7 @@ My JavaScript/TypeScript package distribution uses **JSR** with GitHub Actions t
 
 ## Find me & my work
 
-[GitHub](https://github.com/theworker02) · [Magnexis](https://github.com/Magnexis) · [JSR](https://jsr.io/@theworker02) · [YouTube](https://www.youtube.com/@theworker02gh)
+[Portfolio](https://peerlist.io/theworker02) · [GitHub](https://github.com/theworker02) · [Magnexis](https://github.com/Magnexis) · [JSR](https://jsr.io/@theworker02) · [YouTube](https://www.youtube.com/@theworker02gh)
 
 [X](https://x.com/Magnexis) · [Bluesky](https://bsky.app/profile/magnexis.bsky.social) · [DEV](https://dev.to/magnexis) · [Blog](https://magnexis-blog.hashnode.dev/) · [LinkedIn](https://www.linkedin.com/in/matthew-m-looney)
 
