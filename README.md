@@ -4,7 +4,7 @@
 
 ### Matthew · Developer · Open-source builder
 
-Building developer tools, robotics systems, languages, infrastructure, and focused open-source software.
+Building next-generation developer tools, robotics systems, languages, infrastructure, and proprietary product IP — **looking to be acquired.**
 
 ### [Portfolio → peerlist.io/theworker02](https://peerlist.io/theworker02)
 
@@ -34,14 +34,25 @@ A selection of newer projects and systems currently representing the direction o
 
 | Project | Area | What it explores |
 | :--- | :---: | :--- |
-| **[Nexus Robotics OS](https://github.com/theworker02/Nexus-robotics-OS)** | Robotics | Robotics operating-system/runtime work and autonomous-machine infrastructure |
-| **[Resonance](https://github.com/theworker02/resonance)** | Robotics / systems | New robotics and machine-coordination experimentation |
-| **[Lexicon Error](https://github.com/theworker02/lexicon-error)** | Developer tooling | Error-language and developer-experience experimentation |
-| **[Veyra Scientific](https://github.com/theworker02/veyra-scientific)** | Scientific computing | Scientific software and research-oriented tooling |
-| **[Open Reason](https://github.com/theworker02/open-reason)** | AI / data | Open reasoning data and infrastructure |
-| **[Atlas of Knowledge](https://github.com/theworker02/atlas-of-knowledge)** | Knowledge systems | Structured educational and knowledge-oriented infrastructure |
-| **[DeadDrop](https://github.com/theworker02/deaddrop)** | Systems | Protocol and systems experimentation |
-| **[Later](https://github.com/theworker02/later)** | Developer tooling | A newer focused software experiment |
+| **[SVIE Concept](https://github.com/theworker02/SVIE-concept)** | Automotive / OEM | Supercritical flash fuel, camless DEVA valvetrain, hybrid drive engineering package |
+| **[Insectome](https://github.com/theworker02/new-connectome-project)** | Connectomics | Multi-species insect connectome studio (GitHub Pages) |
+| **[Chimera](https://github.com/theworker02/chimera)** | Distributed systems | Decentralized P2P compute mesh — Wasm, QUIC, CAS, memory fabric |
+| **[Commons](https://github.com/theworker02/commons)** | Agent networks | API-first social/coordination network for autonomous software agents |
+| **[Parallax](https://github.com/theworker02/Parallax)** | Runtimes | Polyglot migration and language-neutral IR execution runtime |
+| **[PatentPulse](https://github.com/theworker02/patentpulse)** | Data / IP | Local USPTO patent corpus pipeline (XML → SQLite / JSONL) |
+| **[Rivet](https://github.com/theworker02/rivet)** | Robotics | Safety-first adaptive robot runtime for Raspberry Pi |
+| **[Stackglass](https://github.com/theworker02/stackglass)** | AI tooling | Observability and verification layer for AI-assisted development |
+| **[EdgeMirror](https://github.com/theworker02/EdgeMirror)** | Edge / Cloudflare | Local↔remote parity engine for Cloudflare Workers |
+| **[Nexus Robotics OS](https://github.com/theworker02/Nexus-robotics-OS)** | Robotics | Robotics operating-system/runtime and autonomous-machine infrastructure |
+
+<div align="center">
+
+### Acquisition & valuation
+
+Portfolio reproduction-cost analysis (asking floor **USD $80,000** per asset):  
+**[REPRODUCTION_COST_ANALYSIS.md](./REPRODUCTION_COST_ANALYSIS.md)**
+
+</div>
 
 <div align="center">
 
@@ -83,8 +94,12 @@ I founded **[Magnexis](https://github.com/Magnexis)**, the organization behind a
 ### Robotics, scientific computing & AI
 
 - **[Nexus Robotics OS](https://github.com/theworker02/Nexus-robotics-OS)** — robotics runtime and autonomous-machine infrastructure
-- **[resonance](https://github.com/theworker02/resonance)** — robotics and machine-systems experimentation
-- **[veyra-scientific](https://github.com/theworker02/veyra-scientific)** — scientific-computing and research tooling
+- **[rivet](https://github.com/theworker02/rivet)** — safety-first adaptive robot runtime (Raspberry Pi)
+- **[resonance](https://github.com/theworker02/resonance)** — distributed acoustic event detection platform
+- **[new-connectome-project](https://github.com/theworker02/new-connectome-project)** — Insectome multi-species connectome studio
+- **[SVIE-concept](https://github.com/theworker02/SVIE-concept)** — OEM automotive fuel/valvetrain/hybrid engineering package
+- **[veyra-scientific](https://github.com/theworker02/veyra-scientific)** — reproducible scientific computing for Cursor
+- **[patentpulse](https://github.com/theworker02/patentpulse)** — USPTO patent corpus download and normalize pipeline
 - **[open-reason](https://github.com/theworker02/open-reason)** — open reasoning data and infrastructure
 - **[atlas-of-knowledge](https://github.com/theworker02/atlas-of-knowledge)** — structured knowledge and educational infrastructure
 
@@ -98,13 +113,18 @@ I founded **[Magnexis](https://github.com/Magnexis)**, the organization behind a
 
 ### Systems & infrastructure
 
-- **[centralizer](https://github.com/theworker02/centralizer)** — autonomous runtime and cross-language coordination work
-- **[chimera](https://github.com/theworker02/chimera)** — P2P distributed computation grid
+- **[chimera](https://github.com/theworker02/chimera)** — decentralized P2P compute and rendering grid
+- **[commons](https://github.com/theworker02/commons)** — social/coordination network for autonomous agents
+- **[centralizer](https://github.com/theworker02/centralizer)** — cross-language interoperability runtime
+- **[EdgeMirror](https://github.com/theworker02/EdgeMirror)** — Cloudflare Workers local↔remote parity
+- **[deadwire](https://github.com/theworker02/deadwire)** — Upstash-first recovery-intelligence control plane
+- **[reprise](https://github.com/theworker02/reprise)** — recovery and compatibility control plane for changing backends
 - **[kraftverk](https://github.com/theworker02/kraftverk)** — AMD-focused systems performance platform
-- **[silicera](https://github.com/theworker02/silicera)** — hardware-native program specialization
-- **[deaddrop](https://github.com/theworker02/deaddrop)** — protocol and systems experimentation
-- **[stackglass](https://github.com/theworker02/stackglass)** — systems/developer tooling
-- **[arcframe](https://github.com/theworker02/arcframe)** — developer infrastructure experimentation
+- **[silicera](https://github.com/theworker02/silicera)** — hardware-native program specialization on AMD Zen
+- **[deaddrop](https://github.com/theworker02/deaddrop)** — encrypted delay-tolerant networking
+- **[stackglass](https://github.com/theworker02/stackglass)** — observability/verification for AI coding agents
+- **[arcframe](https://github.com/theworker02/arcframe)** — local-first repository intelligence for Cursor MCP
+- **[stateful-deployments-engine](https://github.com/theworker02/stateful-deployments-engine)** — transactional cutover for volume-backed workloads
 
 ### Developer diagnostics & correctness
 
@@ -197,6 +217,6 @@ My JavaScript/TypeScript package distribution uses **JSR** with GitHub Actions t
 
 ---
 
-Work ships as inspectable, MIT-oriented open source whenever it can. **Read it. Run it. Question it. Improve it.**
+Many repositories are **source-available proprietary** product IP with commercial licenses and acquisition briefs. Compact utilities remain focused and inspectable. See **[REPRODUCTION_COST_ANALYSIS.md](./REPRODUCTION_COST_ANALYSIS.md)** for portfolio valuation. **Read it. Run it. Question it. Acquire it.**
 
 </div>
