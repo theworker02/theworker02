@@ -27,12 +27,16 @@ Building next-generation developer tools, robotics systems, languages, infrastru
 
 ## Current work
 
-A selection of newer projects and systems currently representing the direction of this account.
+Recent releases and current development, with status stated explicitly.
 
 </div>
 
 | Project | Area | What it explores |
 | :--- | :---: | :--- |
+| **[Atelier](https://github.com/theworker02/atelier/releases/tag/v0.1.0)** | Windows desktop | Released v0.1.0: local workspace notes and explicit review audit trail; AI provider integration remains future work |
+| **[Relaydesk](https://github.com/theworker02/relaydesk/releases/tag/v0.1.0)** | Windows desktop | Released v0.1.0: consent and pairing foundation; remote control is not implemented |
+| **[Helios Ecosystem](https://github.com/theworker02/helios-ecosystem)** | Game engine / MCP | Deterministic Python game runtime and local authoring tools; active development |
+| **[AetherComms](https://github.com/theworker02/aethercomms)** | Communications | Messaging, channels and WebRTC project in development; no verified public deployment |
 | **[SVIE Concept](https://github.com/theworker02/SVIE-concept)** | Automotive / OEM | Supercritical flash fuel, camless DEVA valvetrain, hybrid drive engineering package |
 | **[Insectome](https://github.com/theworker02/new-connectome-project)** | Connectomics | Multi-species insect connectome studio (GitHub Pages) |
 | **[Chimera](https://github.com/theworker02/chimera)** | Distributed systems | Decentralized P2P compute mesh — Wasm, QUIC, CAS, memory fabric |
@@ -108,7 +112,6 @@ I founded **[Magnexis](https://github.com/Magnexis)**, the organization behind a
 - **[doldskrift](https://github.com/theworker02/doldskrift)** — visual writing system for deterministic machine reconstruction · [site](https://theworker02.github.io/doldskrift/)
 - **[Parallax](https://github.com/theworker02/Parallax)** — polyglot migration and execution runtime
 - **[ChronosCTC](https://github.com/theworker02/ChronosCTC)** — experimental chronal runtime / CTC research
-- **[Knot.js](https://github.com/theworker02/Knot.js)** — JavaScript framework experimentation
 
 ### Systems & infrastructure
 
@@ -141,46 +144,9 @@ I founded **[Magnexis](https://github.com/Magnexis)**, the organization behind a
 - **[pubdiagnose](https://github.com/theworker02/pubdiagnose)** — Dart dependency diagnostics
 - **[frameguard](https://github.com/theworker02/frameguard)** — Flutter UI performance budgets and CI gates
 
-<div align="center">
+## Package catalog
 
-## JSR packages
-
-My JavaScript/TypeScript package distribution uses **JSR** with GitHub Actions trusted publishing and OIDC provenance.
-
-**[@theworker02 on JSR](https://jsr.io/@theworker02)**
-
-</div>
-
-| Package | Purpose | Registry |
-| :--- | :--- | :--- |
-| **[envshape](https://github.com/theworker02/envshape)** | Typed environment and dotenv validation | [@theworker02/envshape](https://jsr.io/@theworker02/envshape) |
-| **[pagesmark](https://github.com/theworker02/pagesmark)** | GitHub Pages starter generation | [@theworker02/pagesmark](https://jsr.io/@theworker02/pagesmark) |
-| **[bytesize](https://github.com/theworker02/bytesize)** | SI/IEC byte parsing and conversion | [@theworker02/bytesize](https://jsr.io/@theworker02/bytesize) |
-| **[fixturefreeze](https://github.com/theworker02/fixturefreeze)** | Deterministic fixture freeze and compare | [@theworker02/fixturefreeze](https://jsr.io/@theworker02/fixturefreeze) |
-| **[runledger](https://github.com/theworker02/runledger)** | Append-only command execution receipts | [@theworker02/runledger](https://jsr.io/@theworker02/runledger) |
-
-<details>
-<summary><strong>More focused CLI utilities</strong></summary>
-
-<br />
-
-| Tool | Purpose |
-| :--- | :--- |
-| **[gistfold](https://github.com/theworker02/gistfold)** | Gist folder quality checker |
-| **[specslice](https://github.com/theworker02/specslice)** | Extract headings and API names from Markdown specs |
-| **[diffnoun](https://github.com/theworker02/diffnoun)** | Git diff → noun-phrase changelog lines |
-| **[portbind](https://github.com/theworker02/portbind)** | Check host / `PORT` bind configuration |
-| **[commitlint-lite](https://github.com/theworker02/commitlint-lite)** | Conventional commit message checker |
-| **[licensehead](https://github.com/theworker02/licensehead)** | SPDX license header presence check |
-| **[sli-counter](https://github.com/theworker02/sli-counter)** | Local SLO/SLI good/bad counter |
-| **[receipt-md](https://github.com/theworker02/receipt-md)** | Verification receipt Markdown writer |
-| **[jsonptrget](https://github.com/theworker02/jsonptrget)** | JSON Pointer lookup from stdin |
-| **[cidrhas](https://github.com/theworker02/cidrhas)** | IPv4 CIDR containment check |
-| **[rowkit](https://github.com/theworker02/rowkit)** | Focused data utility |
-| **[modfence](https://github.com/theworker02/modfence)** | Module-boundary utility |
-| **[tlsscope](https://github.com/theworker02/tlsscope)** | TLS inspection utility |
-
-</details>
+Published package records are available on **[JSR](https://jsr.io/@theworker02)**. The public GitHub profile now emphasizes substantial projects; the bulk JavaScript utility repositories are being made private.
 
 <div align="center">
 
@@ -200,6 +166,10 @@ My JavaScript/TypeScript package distribution uses **JSR** with GitHub Actions t
 ![Docker](https://img.shields.io/badge/Docker-111827?style=flat-square&logo=docker)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-111827?style=flat-square&logo=githubactions)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-111827?style=flat-square&logo=raspberrypi)
+
+## Research
+
+[ORCID: 0009-0007-0025-8000](https://orcid.org/0009-0007-0025-8000)
 
 ## Find me & my work
 
