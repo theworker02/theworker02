@@ -16,7 +16,6 @@ Building next-generation developer tools, robotics systems, languages, infrastru
 [![YouTube](https://img.shields.io/badge/YouTube-@theworker02gh-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@theworker02gh)
 
 [![X](https://img.shields.io/badge/X-Magnexis-000000?style=flat-square&logo=x)](https://x.com/Magnexis)
-[![Bluesky](https://img.shields.io/badge/Bluesky-magnexis-0285FF?style=flat-square&logo=bluesky&logoColor=white)](https://bsky.app/profile/magnexis.bsky.social)
 [![DEV](https://img.shields.io/badge/DEV-magnexis-0A0A0A?style=flat-square&logo=devdotto)](https://dev.to/magnexis)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Matthew_Looney-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/matthew-m-looney)
 
